@@ -26,8 +26,8 @@ being used inside main script `generate_data.py`
 
 ## Input Output Ex
 <div style="display: flex;">
-    <img src="input_data/raw_images/image_pixalbay_p2_5.jpg" alt="First Image" style="width: 40%;  margin-right: 50px;;">
-    <img src="output/0002.png" alt="Second Image" style="width: 40%;">
+    <img src="input_data/raw_images/image_pixalbay_p2_5.jpg" alt="First Image" style="width: 40%;  margin: 30px;">
+    <img src="output/0002.png" alt="Second Image" style="width: 40%; margin: 30px;">
 </div>
 
 <br>
