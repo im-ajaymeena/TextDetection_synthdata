@@ -1,0 +1,1 @@
+from .wordart_gen_func import *
