@@ -5,6 +5,7 @@
 ### Generate data cmd
 ```bash
 # before running the script, make sure to have input_data, checkout ./input_data
+# also change the absolute path to output_imgs used inside wordart_gen/wordart_gen_func.py (line 27, 30) have to be ajusted (the docker client only support absolute path)
 bash generate_data_cmd.sh
 ```
 
