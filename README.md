@@ -24,6 +24,24 @@ being used inside main script `generate_data.py`
 - Some fonts might not render at all and give blocks like representation
 - before adding new fonts make sure they can render the text
 
+## Input Output Ex
+<div style="display: flex;">
+    <img src="input_data/raw_images/image_pixalbay_p2_5.jpg" alt="First Image" style="width: 50%;  margin-right: 10px;;">
+    <img src="output/0002.png" alt="Second Image" style="width: 50%;">
+</div>
 
-## WordArt like text 
+<br>
+
+```
+## ground truth annotations text file with bounding boxes x1, y1, w, h, label format
+56,266,1172,68,なズ殿諏プをつプ楡む柿之vヒあ梅覇ゴ
+1054,557,132,116,城
+522,618,493,59,染う胡フ辺局ゼ森れ
+193,376,1010,112,亜中政ねうテジさぎゲ
+62,445,113,81,バ
+```
+
+<br>
+
+## Also support WordArt like text 
 ![](wordart_gen/output/wordart-tilt-.png)
